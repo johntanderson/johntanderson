@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Software Engineer and Cybersecurity Researcher</h3>
 <br></br>
-<h4 style="padding:0">My Background:</h4>
+<h4>About Me:</h4>
 <ul>
     <li>
         &#127891 Attended The University of Wisconsin - Whitewater
@@ -17,6 +17,6 @@
         &#127758 Located in Milwaukee, WI, United States
     </li>
     <li>
-        &#127793 Learning <a href="https://docs.python.org/3/library/socket.html">Socket-Level Programming</a> in <a href="https://www.python.org/">Python</a>
+        &#127793 Currently Learning <a href="https://docs.python.org/3/library/socket.html">Socket-Level Programming</a> in <a href="https://www.python.org/">Python</a>
     </li>
 </ul>
