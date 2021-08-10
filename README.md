@@ -17,6 +17,6 @@
         &#127758 Located in Milwaukee, WI, United States
     </li>
     <li>
-        &#127793 Currently Learning <a href="https://docs.python.org/3/library/socket.html">Socket-Level Programming</a> in <a href="https://www.python.org/">Python</a>
+        &#127793 Currently learning <a href="https://docs.python.org/3/library/socket.html">Socket-Level Programming</a> in <a href="https://www.python.org/">Python</a>
     </li>
 </ul>
